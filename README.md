@@ -1,5 +1,6 @@
 # Number-Recognition-Python
 This is number recognition app that can identify a number with no cap on its length, as long as the digits are clear and visible.
+Link to EXE file: https://drive.google.com/drive/folders/1ni_iNdYk_Gw2y1y9r0RivJaVpgCDovfg?usp=drive_link 
 
 
 The app uses a CNN network implemented in Keras for digit recognition, OpenCV for image proccesing and digit seperation, and Tkinter and Pillow for a simple yet effective UI.  
